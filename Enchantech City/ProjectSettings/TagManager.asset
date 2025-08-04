@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Flesh
   layers:
   - Default
   - TransparentFX
@@ -11,14 +12,14 @@ TagManager:
   - 
   - Water
   - UI
-  - CustomLayer1
-  - CustomLayer2
-  - CustomLayer3
-  - CustomLayer4
-  - CustomLayer5
-  - CustomLayer6
-  - CustomLayer7
-  - CustomLayer8
+  - Interact
+  - Weapon
+  - Focus
+  - NPC
+  - BodyPart
+  - Ground
+  - Slope
+  - World UI
   - Vehicles
   - 
   - 
