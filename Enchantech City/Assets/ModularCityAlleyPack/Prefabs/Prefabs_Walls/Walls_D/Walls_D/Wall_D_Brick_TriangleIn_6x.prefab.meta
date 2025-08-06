@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3984320033f008488fc8e7bcf93ac20
+timeCreated: 1465750941
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_D/Walls_D/Wall_D_Brick_TriangleIn_6x.prefab
+  uploadId: 696757

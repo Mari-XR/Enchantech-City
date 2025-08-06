@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53f4982174f64a34ab1f42fadab46e44
+timeCreated: 1466344230
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Pipe_Set_Straight.prefab
+  uploadId: 696757

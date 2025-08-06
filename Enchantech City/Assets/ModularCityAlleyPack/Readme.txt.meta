@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6c233ad388d63848beb7d149536d3d8
+timeCreated: 1466751639
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Readme.txt
+  uploadId: 696757

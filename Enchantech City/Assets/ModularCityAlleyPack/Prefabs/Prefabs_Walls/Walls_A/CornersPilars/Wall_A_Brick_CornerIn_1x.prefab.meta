@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c447124e9a32e0040a66ab8325a73c7e
+timeCreated: 1465488876
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_A/CornersPilars/Wall_A_Brick_CornerIn_1x.prefab
+  uploadId: 696757

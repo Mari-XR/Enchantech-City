@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a00028365f4c7674492fbaa620b3a512
+timeCreated: 1464373513
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Walls/Wall_Brickwall_Brown.mat
+  uploadId: 696757

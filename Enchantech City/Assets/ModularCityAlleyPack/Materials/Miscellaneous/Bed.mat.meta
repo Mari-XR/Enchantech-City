@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47afe75024096b94a9b993fc3c3c3379
+timeCreated: 1464170511
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Bed.mat
+  uploadId: 696757

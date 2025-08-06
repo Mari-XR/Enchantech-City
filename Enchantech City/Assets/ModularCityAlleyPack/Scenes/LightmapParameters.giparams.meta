@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70faa51bf825bbe4494c4cb7ef739e24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 111300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Scenes/LightmapParameters.giparams
+  uploadId: 696757

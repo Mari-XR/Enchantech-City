@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61ebf63ff802d35468c198a4beb24595
+timeCreated: 1465490204
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_B/Walls_B/Wall_B_Brick_RectangleIn_6x.prefab
+  uploadId: 696757

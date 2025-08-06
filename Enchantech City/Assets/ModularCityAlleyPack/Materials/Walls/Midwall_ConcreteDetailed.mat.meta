@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35d2630e3ed374d4cbca0fb4da2d0dac
+timeCreated: 1464095197
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Walls/Midwall_ConcreteDetailed.mat
+  uploadId: 696757

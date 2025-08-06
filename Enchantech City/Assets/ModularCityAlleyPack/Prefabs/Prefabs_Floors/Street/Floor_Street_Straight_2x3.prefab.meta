@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da1193cfd5f7af249b1a9af61218d97e
+timeCreated: 1465667011
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Street/Floor_Street_Straight_2x3.prefab
+  uploadId: 696757

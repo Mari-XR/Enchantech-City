@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69c572fb48413ac4682f2101f255b06e
+timeCreated: 1464454833
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Lamp_Chinatown_Long.prefab
+  uploadId: 696757

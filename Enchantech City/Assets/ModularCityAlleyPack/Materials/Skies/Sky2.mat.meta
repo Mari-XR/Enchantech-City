@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad412c93554cc7c4888d84ea2fd8a5d0
+timeCreated: 1464366520
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Skies/Sky2.mat
+  uploadId: 696757

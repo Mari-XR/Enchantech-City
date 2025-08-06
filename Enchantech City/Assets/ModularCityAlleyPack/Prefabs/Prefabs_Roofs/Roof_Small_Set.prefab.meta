@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9347cb093c1c1b54b93501f8b36be671
+timeCreated: 1466525615
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Roofs/Roof_Small_Set.prefab
+  uploadId: 696757

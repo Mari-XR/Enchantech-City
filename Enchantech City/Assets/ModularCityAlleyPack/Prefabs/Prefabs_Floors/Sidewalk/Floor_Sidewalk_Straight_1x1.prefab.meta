@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63f42f71142d3cf41afedb67d5126ec7
+timeCreated: 1465660509
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Sidewalk/Floor_Sidewalk_Straight_1x1.prefab
+  uploadId: 696757

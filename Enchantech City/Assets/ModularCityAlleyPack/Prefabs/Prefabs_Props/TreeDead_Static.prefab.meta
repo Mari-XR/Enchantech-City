@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccbe0782a92231d4db4202a672019341
+timeCreated: 1466526059
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/TreeDead_Static.prefab
+  uploadId: 696757

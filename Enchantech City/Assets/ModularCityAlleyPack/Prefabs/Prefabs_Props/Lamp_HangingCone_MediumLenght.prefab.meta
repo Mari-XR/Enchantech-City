@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eef356f68b678c74eb7dca0bdd7faed2
+timeCreated: 1466269620
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Lamp_HangingCone_MediumLenght.prefab
+  uploadId: 696757

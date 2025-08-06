@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22f5c2ee601f74b4296c86594c30d9db
+timeCreated: 1465487737
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Doors/Door_B.prefab
+  uploadId: 696757

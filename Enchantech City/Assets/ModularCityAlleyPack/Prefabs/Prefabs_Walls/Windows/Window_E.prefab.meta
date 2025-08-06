@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0289f0284e370a4aa4fc4fbad9015e5
+timeCreated: 1465491732
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Windows/Window_E.prefab
+  uploadId: 696757

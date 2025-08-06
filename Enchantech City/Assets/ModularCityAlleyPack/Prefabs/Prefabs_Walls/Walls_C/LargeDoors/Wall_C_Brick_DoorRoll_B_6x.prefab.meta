@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b165f672380d2e943ba701419f5ee663
+timeCreated: 1465490931
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_C/LargeDoors/Wall_C_Brick_DoorRoll_B_6x.prefab
+  uploadId: 696757

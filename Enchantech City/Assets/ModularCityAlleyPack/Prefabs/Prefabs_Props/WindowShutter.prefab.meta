@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a09430d35937a7e49b43500c1214a749
+timeCreated: 1464371747
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/WindowShutter.prefab
+  uploadId: 696757

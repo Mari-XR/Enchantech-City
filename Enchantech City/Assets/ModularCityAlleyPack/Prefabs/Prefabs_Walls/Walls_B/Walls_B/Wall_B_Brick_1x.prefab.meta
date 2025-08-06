@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 975372f8249a8334f9a2b6540d6f2b3c
+timeCreated: 1465755928
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_B/Walls_B/Wall_B_Brick_1x.prefab
+  uploadId: 696757

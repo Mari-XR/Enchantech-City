@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e86547fc1095dda428fbd0ed95da1d00
+timeCreated: 1464166609
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Street_Manhole_B.prefab
+  uploadId: 696757

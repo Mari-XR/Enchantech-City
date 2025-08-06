@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 506733af9b1043545844e6e2995f1244
+timeCreated: 1464805572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Air_Conditioner.prefab
+  uploadId: 696757

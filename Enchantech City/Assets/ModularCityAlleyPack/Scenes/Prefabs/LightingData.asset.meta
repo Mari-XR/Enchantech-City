@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53feff976983798479cf98bd9e033c12
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Scenes/Prefabs/LightingData.asset
+  uploadId: 696757

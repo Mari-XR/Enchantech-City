@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4c47268b752de445a116b2b685db398
+timeCreated: 1464806620
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/PowerLines_90deg_A.prefab
+  uploadId: 696757

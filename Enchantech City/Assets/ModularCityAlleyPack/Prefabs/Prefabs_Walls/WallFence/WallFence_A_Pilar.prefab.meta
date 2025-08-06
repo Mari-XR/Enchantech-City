@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08ae5017409619942b032b0430fa9c23
+timeCreated: 1466092619
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/WallFence/WallFence_A_Pilar.prefab
+  uploadId: 696757

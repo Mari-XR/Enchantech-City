@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ad53838dc2559e4e9b16ad68c0b1609
+timeCreated: 1477496648
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Scenes/Example_Scene_Day.unity
+  uploadId: 696757

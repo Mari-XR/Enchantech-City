@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c422889a0b40b840b7ec8737c10faa7
+timeCreated: 1464170705
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Bed_Full.prefab
+  uploadId: 696757

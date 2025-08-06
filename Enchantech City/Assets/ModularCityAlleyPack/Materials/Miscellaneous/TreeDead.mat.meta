@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 442a22063867c3c4895f6cc468049470
+timeCreated: 1466525776
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/TreeDead.mat
+  uploadId: 696757

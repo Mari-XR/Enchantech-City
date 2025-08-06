@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10ea416d3863b424e9018ce156a75320
+timeCreated: 1466344810
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Pipe_Set_C.prefab
+  uploadId: 696757

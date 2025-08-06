@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cd925b36cd94044098730afc5da593c
+timeCreated: 1466326718
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Lamp_HangingBulbs.prefab
+  uploadId: 696757

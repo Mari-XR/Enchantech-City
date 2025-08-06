@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f79f3157a43403642bfafaf85db9e4dd
+timeCreated: 1465492266
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Stonepavement/Floor_StonePavemet_B_3x.prefab
+  uploadId: 696757

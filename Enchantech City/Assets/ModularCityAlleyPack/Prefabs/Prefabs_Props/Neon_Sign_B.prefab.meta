@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4be3dc8f954784c46ae553d7f41fc741
+timeCreated: 1464246298
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Neon_Sign_B.prefab
+  uploadId: 696757

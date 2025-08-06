@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff02ad3cddeaf034e9d15f87b3bd827e
+timeCreated: 1465488928
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_A/LargeDoors/Wall_A_Brick_Shops_B_4x.prefab
+  uploadId: 696757

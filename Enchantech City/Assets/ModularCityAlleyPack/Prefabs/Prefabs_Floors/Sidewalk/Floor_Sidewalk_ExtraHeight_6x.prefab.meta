@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79fedb5e9179281478e2a4d5e612f41d
+timeCreated: 1465842263
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Sidewalk/Floor_Sidewalk_ExtraHeight_6x.prefab
+  uploadId: 696757

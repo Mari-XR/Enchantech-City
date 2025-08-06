@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b9c8d2e9f0aa1045b6c588088e0a7b9
+timeCreated: 1466011192
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Decals/Decal_Dirt_E.prefab
+  uploadId: 696757

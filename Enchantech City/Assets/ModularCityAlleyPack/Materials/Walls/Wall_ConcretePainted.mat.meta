@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf7d33633f7259745ae10aaaa3e1fcd6
+timeCreated: 1464792349
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Walls/Wall_ConcretePainted.mat
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42962d268dc7d0646a73e4a0ed6b49c1
+timeCreated: 1466094645
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Table_Metal.prefab
+  uploadId: 696757

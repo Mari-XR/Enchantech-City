@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0498251bd402f024cacd71da699900db
+timeCreated: 1477583102
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_B/LargeDoors/W_B_DoorOpen_4x.prefab
+  uploadId: 696757

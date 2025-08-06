@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d4388fe020d7954587cbe657b350f65
+timeCreated: 1464806709
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/PowerLines_ZigZag_A.prefab
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fc9ea6d6d1b8e943aab52368d009298
+timeCreated: 1477580086
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Awnings.mat
+  uploadId: 696757

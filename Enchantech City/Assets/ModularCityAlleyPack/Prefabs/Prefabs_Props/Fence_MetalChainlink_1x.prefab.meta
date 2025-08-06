@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 363efdbe09c8f1442a25ee0dd24ab4fc
+timeCreated: 1464170148
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Fence_MetalChainlink_1x.prefab
+  uploadId: 696757

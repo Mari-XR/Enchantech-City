@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9f32d96671d9b6478a4b4db0ee55ec8
+timeCreated: 1464330782
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete.mat
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f4c9a914692a8648bc1a87a2af12bea
+timeCreated: 1465490980
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_C/LargeDoors/Wall_C_Brick_MetalDoorsHigh_4x.prefab
+  uploadId: 696757

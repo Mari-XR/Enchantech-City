@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53ec4d750cf5eb64c8947d789e79de16
+timeCreated: 1466271634
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/WallFence/Wall_Arc_2x.prefab
+  uploadId: 696757

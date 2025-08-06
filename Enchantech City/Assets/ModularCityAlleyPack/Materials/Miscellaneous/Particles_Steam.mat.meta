@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5d917d1447547f418d87c6b8e0984af
+timeCreated: 1464364160
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Particles_Steam.mat
+  uploadId: 696757

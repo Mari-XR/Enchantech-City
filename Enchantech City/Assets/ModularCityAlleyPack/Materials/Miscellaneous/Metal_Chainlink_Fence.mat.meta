@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e59c78953ab9d4428aa3fe4f850bf5e
+timeCreated: 1464166903
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Metal_Chainlink_Fence.mat
+  uploadId: 696757

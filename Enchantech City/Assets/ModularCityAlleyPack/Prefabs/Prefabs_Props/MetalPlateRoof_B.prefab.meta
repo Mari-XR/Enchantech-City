@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcd620a2c540dfa42a06bc9c90457e07
+timeCreated: 1464371653
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/MetalPlateRoof_B.prefab
+  uploadId: 696757

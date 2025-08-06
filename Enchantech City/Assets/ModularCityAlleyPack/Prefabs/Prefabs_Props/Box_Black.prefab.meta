@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dccff5b32fedf6c4490747e9451dfa25
+timeCreated: 1464172609
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Box_Black.prefab
+  uploadId: 696757

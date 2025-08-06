@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39bb19adf4a871c43832d553d55bf2a5
+timeCreated: 1464806087
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Commercial.prefab
+  uploadId: 696757

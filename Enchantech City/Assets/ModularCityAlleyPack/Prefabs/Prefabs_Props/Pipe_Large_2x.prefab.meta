@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94a0f29dba801cf46b14d94f536819c5
+timeCreated: 1464806371
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Pipe_Large_2x.prefab
+  uploadId: 696757

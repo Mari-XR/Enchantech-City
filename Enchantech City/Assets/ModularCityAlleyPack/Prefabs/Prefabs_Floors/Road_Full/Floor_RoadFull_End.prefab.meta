@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ad0d18c3b5f012449215e50f60f587b
+timeCreated: 1466953709
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Road_Full/Floor_RoadFull_End.prefab
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2333c2469df9013418df8418fc659ece
+timeCreated: 1465490253
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_B/SmallDoors/Wall_B_Brick_Door_A_2x.prefab
+  uploadId: 696757

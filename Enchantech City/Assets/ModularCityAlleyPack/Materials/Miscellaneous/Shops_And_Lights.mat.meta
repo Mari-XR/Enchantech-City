@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 530ec57ee5f069746af597021956c157
+timeCreated: 1464451573
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Shops_And_Lights.mat
+  uploadId: 696757

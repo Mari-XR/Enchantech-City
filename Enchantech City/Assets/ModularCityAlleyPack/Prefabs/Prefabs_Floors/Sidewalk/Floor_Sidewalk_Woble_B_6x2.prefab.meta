@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 017fe1ebfce757544b3e91689d172d55
+timeCreated: 1465665836
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Sidewalk/Floor_Sidewalk_Woble_B_6x2.prefab
+  uploadId: 696757

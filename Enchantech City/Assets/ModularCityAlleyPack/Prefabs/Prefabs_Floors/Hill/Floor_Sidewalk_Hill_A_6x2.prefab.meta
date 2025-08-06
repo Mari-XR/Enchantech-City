@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8f142815d7c7e34a9cf935a8aad12a4
+timeCreated: 1465743930
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Hill/Floor_Sidewalk_Hill_A_6x2.prefab
+  uploadId: 696757

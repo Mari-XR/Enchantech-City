@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c2890b448b53ac4ba1f9fd71f5ad432
+timeCreated: 1464166620
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Street_StoppingPole.prefab
+  uploadId: 696757

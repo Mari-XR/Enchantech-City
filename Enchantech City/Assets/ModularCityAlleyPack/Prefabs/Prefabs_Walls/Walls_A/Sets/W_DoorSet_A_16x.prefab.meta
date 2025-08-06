@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d52320868f21c98418509747d63fa6f2
+timeCreated: 1477583290
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_A/Sets/W_DoorSet_A_16x.prefab
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5198bc0d4916234d914f33b291de43c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Scenes/Example_Scene_Day/LightingData.asset
+  uploadId: 696757

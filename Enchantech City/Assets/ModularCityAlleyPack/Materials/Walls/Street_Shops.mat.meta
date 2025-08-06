@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02dbb10d695a20343a8c8e025874e586
+timeCreated: 1454430555
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Walls/Street_Shops.mat
+  uploadId: 696757

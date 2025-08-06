@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09e6abaef82621641a80e7eb1691303d
+timeCreated: 1464349878
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Alley_Prop_Set.mat
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98a55ec570d04024cb393ee2ee530726
+timeCreated: 1466524784
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Roof_Metal.mat
+  uploadId: 696757

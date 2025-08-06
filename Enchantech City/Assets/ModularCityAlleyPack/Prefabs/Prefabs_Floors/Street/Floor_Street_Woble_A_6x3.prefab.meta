@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3d90eb71f35385459a4c0f36f11d258
+timeCreated: 1465665409
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Street/Floor_Street_Woble_A_6x3.prefab
+  uploadId: 696757

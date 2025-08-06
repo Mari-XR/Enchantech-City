@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d41bbd23d3217b488c0a193d374b49b
+timeCreated: 1465488881
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_A/CornersPilars/Wall_A_Brick_CornerOut_B_1x.prefab
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 200543ed78d23b342a35504b9cf1a854
+timeCreated: 1466347774
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/MetalPlateRoof_Stand.prefab
+  uploadId: 696757

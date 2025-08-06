@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d71f655cb84c92468c342702c409dfa
+timeCreated: 1465488910
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_A/LargeDoors/Wall_A_Brick_DoorsHigh_4x.prefab
+  uploadId: 696757

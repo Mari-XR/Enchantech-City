@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0582354d186fb784d9eb5e5f47d9ce8b
+timeCreated: 1465747390
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Lamp_StreetWall.prefab
+  uploadId: 696757

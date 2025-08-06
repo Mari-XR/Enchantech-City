@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3c584090a8ab8e40991ea6f461082a6
+timeCreated: 1464794075
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Walls/Midwall_ConcreteDirty_C.mat
+  uploadId: 696757

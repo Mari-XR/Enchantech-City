@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11bf947dce56dd946bbe6bb380a9cec5
+timeCreated: 1464806886
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Window_MetalBars_A.prefab
+  uploadId: 696757

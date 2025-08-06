@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb98b4c827b9fd647bf0e16dc514d673
+timeCreated: 1466525587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Roofs/Roof_Large_Corner_4x.prefab
+  uploadId: 696757

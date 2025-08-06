@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2b5d29cf77ac334e9e0e619e4fb5efb
+timeCreated: 1465490180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_B/Windows/Wall_B_Brick_Window_B_2x.prefab
+  uploadId: 696757

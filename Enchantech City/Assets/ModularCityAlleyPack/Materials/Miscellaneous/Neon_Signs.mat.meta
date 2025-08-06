@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7e58bc47cb3a864394e3fec8e3e2d79
+timeCreated: 1464245798
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Neon_Signs.mat
+  uploadId: 696757

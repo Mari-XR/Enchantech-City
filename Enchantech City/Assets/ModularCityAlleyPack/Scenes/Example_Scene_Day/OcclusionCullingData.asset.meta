@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce9dbc7c405bb694aa890b1aa5662402
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Scenes/Example_Scene_Day/OcclusionCullingData.asset
+  uploadId: 696757

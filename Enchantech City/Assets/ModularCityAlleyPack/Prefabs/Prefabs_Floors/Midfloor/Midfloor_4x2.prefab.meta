@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 798b867c074226a49897ba3053def7a5
+timeCreated: 1465487889
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Midfloor/Midfloor_4x2.prefab
+  uploadId: 696757

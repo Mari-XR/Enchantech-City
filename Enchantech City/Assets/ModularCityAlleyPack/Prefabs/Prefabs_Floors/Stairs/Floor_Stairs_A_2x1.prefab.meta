@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aae0c94b66d559345b7b7ea9a0358844
+timeCreated: 1465722351
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Stairs/Floor_Stairs_A_2x1.prefab
+  uploadId: 696757

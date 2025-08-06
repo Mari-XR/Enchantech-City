@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2224f00f2b2c374eb09fe798df64400
+timeCreated: 1466191745
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Materials/Miscellaneous/Particles_Dirt.mat
+  uploadId: 696757

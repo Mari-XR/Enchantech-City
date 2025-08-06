@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37c270a4e7cb1614e92ac9b24648758a
+timeCreated: 1465490212
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Walls/Walls_B/LargeDoors/Wall_B_Brick_MetalDoors_6x.prefab
+  uploadId: 696757

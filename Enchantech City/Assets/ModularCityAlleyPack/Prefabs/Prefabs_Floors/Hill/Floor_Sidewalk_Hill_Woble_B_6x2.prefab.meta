@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7b53f04586b1b643a5bdd3c0ba24828
+timeCreated: 1465744643
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Hill/Floor_Sidewalk_Hill_Woble_B_6x2.prefab
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3db0e51b96c4a3343abd69bbbabd9d16
+timeCreated: 1464364337
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Particles/Particles_Fog.prefab
+  uploadId: 696757

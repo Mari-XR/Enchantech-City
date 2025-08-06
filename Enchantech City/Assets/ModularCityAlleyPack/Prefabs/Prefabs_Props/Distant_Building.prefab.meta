@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e1085c01b953c646a42f707ceff468f
+timeCreated: 1464807591
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Distant_Building.prefab
+  uploadId: 696757

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9da9d481836bd749992e898a459fda9
+timeCreated: 1464455191
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Props/Lamp_Cone_Spot.prefab
+  uploadId: 696757

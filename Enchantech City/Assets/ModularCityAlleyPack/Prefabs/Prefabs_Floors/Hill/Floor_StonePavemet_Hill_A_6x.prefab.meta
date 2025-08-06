@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c78bd5344ea4cd4bb2b2391ec283988
+timeCreated: 1465723978
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65890
+  packageName: Modular City Alley Pack
+  packageVersion: 2.0.0
+  assetPath: Assets/ModularCityAlleyPack/Prefabs/Prefabs_Floors/Hill/Floor_StonePavemet_Hill_A_6x.prefab
+  uploadId: 696757
