@@ -11,10 +11,7 @@ GameObject:
   - component: {fileID: 467034}
   - component: {fileID: 3395352}
   - component: {fileID: 2381078}
-  - component: {fileID: 2818212650362569297}
-  - component: {fileID: 4793058963306330629}
-  - component: {fileID: 4238669092589246228}
-  - component: {fileID: -805066107350673494}
+  - component: {fileID: -7548782935118157242}
   m_Layer: 0
   m_Name: Wall_C_Brick_DoorRoll_A_4x
   m_TagString: Untagged
@@ -91,46 +88,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2818212650362569297
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 154024}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: -1.73, y: 1.7477067, z: -0.1009444}
---- !u!65 &4793058963306330629
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 154024}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0, y: 3.14, z: -0.1009444}
---- !u!65 &4238669092589246228
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 154024}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0, y: 1.7477067, z: -0.25}
---- !u!64 &-805066107350673494
+--- !u!64 &-7548782935118157242
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

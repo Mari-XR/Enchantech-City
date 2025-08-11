@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 429926}
   - component: {fileID: 3370606}
   - component: {fileID: 2355264}
+  - component: {fileID: 758147312698968064}
   m_Layer: 0
   m_Name: Bed_Frame
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &758147312698968064
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 173050}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.054295, y: 0.7680803, z: 0.842821}
+  m_Center: {x: 0.000009536743, y: 0.38732937, z: -0.00011609495}
