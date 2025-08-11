@@ -11,9 +11,6 @@ GameObject:
   - component: {fileID: 467414}
   - component: {fileID: 3318734}
   - component: {fileID: 2310950}
-  - component: {fileID: 3697175297805253353}
-  - component: {fileID: 3368394718525350691}
-  - component: {fileID: 3355158747992988816}
   - component: {fileID: -8760546029918262512}
   m_Layer: 0
   m_Name: Wall_D_Brick_Shops_B_4x
@@ -89,45 +86,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3697175297805253353
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 165700}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 1.75, y: 1.9977067, z: -0.100944415}
---- !u!65 &3368394718525350691
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 165700}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0, y: 3.3, z: -0.100944415}
---- !u!65 &3355158747992988816
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 165700}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0, y: 1.9977067, z: -0.2}
 --- !u!64 &-8760546029918262512
 MeshCollider:
   m_ObjectHideFlags: 0

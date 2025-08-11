@@ -74,7 +74,6 @@ GameObject:
   - component: {fileID: 432662}
   - component: {fileID: 3328904}
   - component: {fileID: 2377452}
-  - component: {fileID: 858719239426756747}
   m_Layer: 0
   m_Name: Tree_Groundplate
   m_TagString: Untagged
@@ -147,19 +146,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &858719239426756747
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 147114}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0, y: 0.002986283, z: 0}
 --- !u!1 &160692
 GameObject:
   m_ObjectHideFlags: 0
@@ -205,7 +191,6 @@ GameObject:
   - component: {fileID: 400284}
   - component: {fileID: 13714952}
   - component: {fileID: 858719239426756746}
-  - component: {fileID: 858719239426756745}
   m_Layer: 0
   m_Name: Tree_Skinned
   m_TagString: Untagged
@@ -297,16 +282,3 @@ CapsuleCollider:
   m_Height: 3.73
   m_Direction: 1
   m_Center: {x: -0.072640054, y: 4.07, z: 0.19017267}
---- !u!65 &858719239426756745
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 183616}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0, y: 1.92, z: 0}
