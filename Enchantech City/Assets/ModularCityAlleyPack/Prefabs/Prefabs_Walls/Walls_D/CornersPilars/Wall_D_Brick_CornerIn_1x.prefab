@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 404152}
   - component: {fileID: 3393320}
   - component: {fileID: 2313640}
-  - component: {fileID: 7637321617779924202}
   - component: {fileID: 3060958991793550085}
   m_Layer: 0
   m_Name: Wall_D_Brick_CornerIn_1x
@@ -86,19 +85,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7637321617779924202
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 135686}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0.4973053, y: 2.0000002, z: 0.02}
 --- !u!64 &3060958991793550085
 MeshCollider:
   m_ObjectHideFlags: 0

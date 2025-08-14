@@ -11,9 +11,7 @@ GameObject:
   - component: {fileID: 477112}
   - component: {fileID: 3389066}
   - component: {fileID: 2322960}
-  - component: {fileID: 3171529062058347510}
-  - component: {fileID: -1965058704798660382}
-  - component: {fileID: 4635773927707647802}
+  - component: {fileID: -435286634117609294}
   m_Layer: 0
   m_Name: W_C_DoorOpen_2x
   m_TagString: Untagged
@@ -89,33 +87,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3171529062058347510
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 137844}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0.77, y: 1.7373966, z: -0.18771103}
---- !u!65 &-1965058704798660382
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 137844}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0.02, y: 2.96, z: -0.18771103}
---- !u!64 &4635773927707647802
+--- !u!64 &-435286634117609294
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
