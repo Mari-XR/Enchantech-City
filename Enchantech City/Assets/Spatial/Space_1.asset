@@ -23,6 +23,6 @@ MonoBehaviour:
   embeddedPackageAssets: []
   networkPrefabs: []
   settings:
-    serverInstancingEnabled: 1
+    serverInstancingEnabled: 0
     serverCapacitySetting: 1
     serverInstanceCapacity: 16

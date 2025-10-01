@@ -25332,6 +25332,121 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94a0f29dba801cf46b14d94f536819c5, type: 3}
+--- !u!1 &445737980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 445737981}
+  - component: {fileID: 445737983}
+  - component: {fileID: 445737982}
+  m_Layer: 0
+  m_Name: Spotlight_Realtime_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &445737981
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 445737980}
+  m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+  m_LocalPosition: {x: -20.354372, y: 2.39, z: 33.27407}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1232745683}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &445737982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 445737980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 1
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+--- !u!108 &445737983
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 445737980}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 2
+  m_Shape: 0
+  m_Color: {r: 0.9705882, g: 0.6349183, b: 0.57807094, a: 1}
+  m_Intensity: 8
+  m_Range: 40
+  m_SpotAngle: 134
+  m_InnerSpotAngle: 118.87004
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 1
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.01
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
 --- !u!1001 &445877520
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34718,8 +34833,8 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 0.8301887, g: 0.68514663, b: 0.41117835, a: 1}
-  m_Intensity: 12
+  m_Color: {r: 0.972549, g: 0.7411765, b: 0.5372549, a: 1}
+  m_Intensity: 18
   m_Range: 14
   m_SpotAngle: 140
   m_InnerSpotAngle: 1
@@ -52009,7 +52124,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.9705882, g: 0.6349183, b: 0.57807094, a: 1}
-  m_Intensity: 8
+  m_Intensity: 30
   m_Range: 40
   m_SpotAngle: 134
   m_InnerSpotAngle: 118.87004
@@ -58464,8 +58579,8 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 0.6911765, g: 0.54642195, b: 0.39132786, a: 1}
-  m_Intensity: 12
+  m_Color: {r: 0.972549, g: 0.7411765, b: 0.5372549, a: 1}
+  m_Intensity: 20
   m_Range: 12
   m_SpotAngle: 140
   m_InnerSpotAngle: 140
@@ -61408,6 +61523,18 @@ MonoBehaviour:
               you win a key!'
             m_BoolArgument: 0
           m_CallState: 2
+        - m_Target: {fileID: 1987341220}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
     animatorEvent:
       events: []
     questEvent:
@@ -63629,6 +63756,7 @@ Transform:
   - {fileID: 1572696219}
   - {fileID: 274500672}
   - {fileID: 53230472}
+  - {fileID: 445737981}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -76319,10 +76447,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a722a558e6b6f8409b3ae65875fde9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shopOnMaterial: {fileID: 0}
-  shopOffMaterial: {fileID: 0}
-  streetOnMaterial: {fileID: 0}
-  streetOffMaterial: {fileID: 0}
+  shopOnMaterial: {fileID: 2100000, guid: 530ec57ee5f069746af597021956c157, type: 2}
+  shopOffMaterial: {fileID: 2100000, guid: 64cf8f5de70214e48986c2c916054178, type: 2}
+  streetOnMaterial: {fileID: 2100000, guid: 02dbb10d695a20343a8c8e025874e586, type: 2}
+  streetOffMaterial: {fileID: 2100000, guid: 71ba0052b60721044b4a62c355545ee2, type: 2}
+  neonOnMaterial: {fileID: 2100000, guid: f7e58bc47cb3a864394e3fec8e3e2d79, type: 2}
+  neonOffMaterial: {fileID: 2100000, guid: 86f20616e1681164c8c16c65be507ee7, type: 2}
   objects:
   - {fileID: 745950374}
   - {fileID: 1716103886}
@@ -88619,17 +88749,32 @@ MonoBehaviour:
   iconType: 0
   icon: {fileID: 0}
   interactiveRadius: 5
-  visibilityRadius: 14.756897
+  visibilityRadius: 15
   onInteractEvent:
     id: 0
     unityEventIsSynced: 0
     unityEvent:
       m_PersistentCalls:
-        m_Calls: []
+        m_Calls:
+        - m_Target: {fileID: 1475118361}
+          m_TargetAssemblyTypeName: LightZone, NewAssembly
+          m_MethodName: TurnLightsOn
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
     animatorEvent:
       events: []
     questEvent:
-      events: []
+      events:
+      - questID: 2
+        questEventType: 4
+        taskID: 1
   onEnterEvent:
     id: 0
     unityEventIsSynced: 0
@@ -89363,11 +89508,11 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 0.63235295, g: 0.4763811, b: 0.3347751, a: 1}
-  m_Intensity: 20
+  m_Color: {r: 0.9716981, g: 0.74252397, b: 0.53626734, a: 1}
+  m_Intensity: 30
   m_Range: 12
   m_SpotAngle: 140
-  m_InnerSpotAngle: 14
+  m_InnerSpotAngle: 75.22862
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
@@ -91692,7 +91837,10 @@ MonoBehaviour:
     animatorEvent:
       events: []
     questEvent:
-      events: []
+      events:
+      - questID: 2
+        questEventType: 1
+        taskID: 0
 --- !u!1001 &1677015014
 PrefabInstance:
   m_ObjectHideFlags: 0

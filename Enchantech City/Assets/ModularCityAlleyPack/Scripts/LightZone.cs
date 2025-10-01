@@ -10,6 +10,9 @@ public class LightZone: MonoBehaviour
     [SerializeField] Material streetOnMaterial;
     [SerializeField] Material streetOffMaterial;
 
+    [SerializeField] Material neonOnMaterial;
+    [SerializeField] Material neonOffMaterial;
+
     [SerializeField] GameObject[] objects;
     void Start()
     {
