@@ -31,11 +31,15 @@ public class LightZone: MonoBehaviour
             {
                 for (int i = 0; i < mr.materials.Length; i++)
                 {
-                    if (mr.materials[i].name == shopOffMaterial.name)
+                    mr.materials[i] = shopOnMaterial;
+                    Debug.Log(mr.materials[i].name);
+                    if (mr.materials[i].name == shopOffMaterial + " (Instance)")
                     {
+                        Debug.Log("Toggle");
                         mr.materials[i] = shopOnMaterial;
-                    } else if (mr.materials[i].name == streetOffMaterial.name)
+                    } else if (mr.materials[i].name == streetOffMaterial + " (Instance)")
                     {
+                        Debug.Log("Toggle");
                         mr.materials[i] = streetOnMaterial;
                     }
                 }
@@ -55,12 +59,15 @@ public class LightZone: MonoBehaviour
             {
                 for (int i = 0; i < mr.materials.Length; i++)
                 {
-                    if (mr.materials[i].name == shopOnMaterial.name)
+                    Debug.Log(mr.materials[i].name);
+                    if (mr.materials[i].name == shopOnMaterial + " (Instance")
                     {
+                        Debug.Log("Toggle");
                         mr.materials[i] = shopOffMaterial;
                     }
-                    else if (mr.materials[i].name == streetOnMaterial.name)
+                    else if (mr.materials[i].name == streetOnMaterial + " (Instance")
                     {
+                        Debug.Log("Toggle");
                         mr.materials[i] = streetOffMaterial;
                     }
                 }
