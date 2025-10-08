@@ -6,10 +6,3 @@ NativeFormatImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 65890
-  packageName: Modular City Alley Pack
-  packageVersion: 2.0.0
-  assetPath: Assets/ModularCityAlleyPack/Scenes/Example_Scene_Night/OcclusionCullingData.asset
-  uploadId: 696757
