@@ -16,4 +16,5 @@ MonoBehaviour:
   sku: 
   packageName: Interactive 1980s BoomBox
   thumbnail: {fileID: 2800000, guid: 0b247d6dc854a40fdb7a75c7721046cd, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04, type: 2}
   prefab: {fileID: 2874721438301428317, guid: f6777e96c266b45cba48d5f5d3fa6d93, type: 3}
